@@ -76,5 +76,3 @@ def handle_text(message):
 if __name__ == '__main__':
     print("Бот запущен...")
     bot.polling()
-
-#%%
