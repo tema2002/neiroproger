@@ -1,0 +1,3 @@
+def a():
+    '''empty'''
+    pass
